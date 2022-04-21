@@ -11,8 +11,8 @@ Introduction to Graph neural networks and machine learning with graphs .
 
 # Ref :
 
-## PyG documentation : https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
-## NetworkX  documentation : https://networkx.org/documentation/stable/install.html
-## Stanford University’s Machine Learning with Graphs course : https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
+PyG documentation : https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
+NetworkX  documentation : https://networkx.org/documentation/stable/install.html
+Stanford University’s Machine Learning with Graphs course : https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn
 
 
