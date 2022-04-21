@@ -9,7 +9,7 @@ Introduction to Graph neural networks with a serie of tutorials various techniqu
 ### 3. PyG : https://pytorch-geometric.readthedocs.io/en/latest/notes/installation.html
 ### 4. NetworkX : https://networkx.org/documentation/stable/install.html
 
-# Ref :
+## Ref :
 
 ### PyG documentation : https://pytorch-geometric.readthedocs.io/en
 ### NetworkX  documentation : https://networkx.org/documentation
