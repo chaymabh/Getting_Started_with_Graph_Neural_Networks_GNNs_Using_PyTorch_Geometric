@@ -31,7 +31,7 @@ For more information and resources on GNNs and their implementation using PyTorc
 
 ## Contributing
 
-We welcome contributions to this project. If you have suggestions, bug reports, or want to contribute new tutorials, please see our [contribution guidelines](CONTRIBUTING.md).
+We welcome contributions to this project. 
 
 ## License
 
